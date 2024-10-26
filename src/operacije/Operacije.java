@@ -10,4 +10,5 @@ package operacije;
  */
 public class Operacije {
 
+    public static final int POGODI_BROJ = 1;
 }
